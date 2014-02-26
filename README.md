@@ -12,6 +12,7 @@
 
 ##Other Resources
 4. http://newcoder.io/tutorials/
+  * I'd love to go through the web scraping and data visualization tutorials soon.
 5. http://tech.yipit.com/2012/08/21/how-i-taught-myself-to-code-in-8-weeks/
 6. [Khan Academy's Intro to Computer Science](https://www.khanacademy.org/science/computer-science-subject/computer-science)
   * I ran through a couple of the videos in this track; I liked how completion was gamified. Only downside: there weren't any after-the-video exercises to get extra practice in. This is good review, but LPTHW is more comprehensive.

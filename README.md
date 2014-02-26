@@ -8,7 +8,7 @@
   * The official Django guide takes you step-by-step through the building of a Django (1.6) polling app. Best for use with Python 2.7. The steps are straightforward, but there are a lot of new concepts to grasp if you're using MVC for the first time.
   * I'm almost done with Part I -- getting some models written and using SQLlite. A default django app is running on my localhost. 
 3. [Codecademy Python track](http://www.codecademy.com)
-  * Notes: I went through about 43% of this track before I switched over to Learn Python the Hard Way. Codecademy makes for great practice typing out python syntax in response to simple questions. 
+  * Notes: I went through about 43% of this track before I switched over to Learn Python the Hard Way. Codecademy makes for great practice typing out python syntax, but isn't extremely comprehensive. 
 
 ##Other Resources
 4. http://newcoder.io/tutorials/

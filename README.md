@@ -10,7 +10,7 @@
 3. [Codecademy Python track](http://www.codecademy.com)
 .. *Notes: I went through about 43% of this track before I started on Learn Python the Hard Way. Codecademy makes for great practice typing out python syntax in response to simple questions. 
 
-##Other Resrouces
+##Other Resources
 4. http://newcoder.io/tutorials/
 5. http://tech.yipit.com/2012/08/21/how-i-taught-myself-to-code-in-8-weeks/
 6. [Khan Academy's Intro to Computer Science](https://www.khanacademy.org/science/computer-science-subject/computer-science)

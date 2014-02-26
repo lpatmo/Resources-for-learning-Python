@@ -2,8 +2,8 @@
 
 ##Primary Resources
 1. [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
-  * 52 exercises
-  *Notes: Exercises 1-15 were pretty straightforward. Was easier to do because I was already familiar with javascript and with using the command line.  
+  * 52 exercises in total
+  * Exercises 1-15 were pretty straightforward. Was easier to do because I was already familiar with javascript and with using the command line.  
 2. [Official Django guide](https://docs.djangoproject.com/en/1.6/intro/tutorial02/)
   * The official Django guide takes you step-by-step through the building of a Django (1.6) polling app. Best for use with Python 2.7. The steps are straightforward, but there are a lot of new concepts to grasp with MVC.
 3. [Codecademy Python track](http://www.codecademy.com)

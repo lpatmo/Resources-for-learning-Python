@@ -5,6 +5,7 @@
   * 52 exercises total
   * Exercises 1-15 were pretty straightforward. Was easier to do because I was already familiar with javascript and with using the command line. I'm now on exercise 17. Doing at least an exercise each day.
   * Now on exercise 21.
+  * Now on exercise 28!
 2. [Official Django guide](https://docs.djangoproject.com/en/1.6/intro/tutorial02/)
   * The official Django guide takes you step-by-step through the building of a Django (1.6) polling app. Best for use with Python 2.7. The steps are straightforward, but there are a lot of new concepts to grasp if you're using MVC for the first time.
   * I'm almost done with Part I -- getting some models written and using SQLlite. A default django app is running on my localhost. 

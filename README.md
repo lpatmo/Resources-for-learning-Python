@@ -7,7 +7,7 @@
   * Now on exercise 21.
   * Now on exercise 28!
   * Now on exercise 29!
-  * Now on exercise 41! Exercise 40 was the start of learning OOP. Now my second time getting exposed to OOP.
+  * Now on exercise 43! Exercise 40 was the start of learning OOP. Now my second time getting exposed to OOP.
 2. [Official Django guide](https://docs.djangoproject.com/en/1.6/intro/tutorial02/)
   * The official Django guide takes you step-by-step through the building of a Django (1.6) polling app. Best for use with Python 2.7. The steps are straightforward, but there are a lot of new concepts to grasp if you're using MVC for the first time.
   * I'm almost done with Part I -- getting some models written and using SQLlite. A default django app is running on my localhost. 
@@ -26,4 +26,5 @@
 9. Google's free python class
 10. https://gun.io/blog/how-to-take-on-a-large-Django-project/ 
 11. http://realdjango.herokuapp.com/ 
-12. Using dJango on mostly static sites: http://goodcode.io/blog/django-staticsite/ 
+12. Using dJango on mostly static sites: http://goodcode.io/blog/django-staticsite/
+13. Collection of "not so obvious" Python stuff http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/not_so_obvious_python_stuff.ipynb 
